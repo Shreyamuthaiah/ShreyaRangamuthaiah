@@ -72,6 +72,20 @@ The solution aims to reduce the manual effort required for data processing and r
 ![Pipeline](/assets/images/PP.png)
 
 
+### Sea Level Predictor
+
+This project involved analyzing a dataset of global average sea level changes since 1880 to predict sea level rise through the year 2050. Pandas was used to import and process data from a CSV file, followed by visualization using Matplotlib to create a scatter plot with Year on the x-axis and CSIRO Adjusted Sea Level on the y-axis.
+
+To predict future sea level trends, the linregress function from Scipy.stats was applied to calculate the slope and y-intercept of the line of best fit, extending the projection through 2050. Additionally, a second line of best fit was plotted using data from the year 2000 onward to account for recent trends. This work demonstrates expertise in data visualization, regression analysis, and predictive modeling, highlighting the ability to extract valuable insights from complex datasets.
+
+### Page View Time Series Visualiser
+
+This project involved visualizing time series data to analyze the page views on the freeCodeCamp.org forum from May 2016 to December 2019. Pandas, Matplotlib, and Seaborn were utilized to create multiple visualizations, allowing for the identification of trends and patterns in yearly and monthly page view growth.
+
+The dataset was first cleaned by removing outliers, specifically filtering out days with page views in the top and bottom 2.5%. A line chart was then created using Matplotlib to visualize the daily page views over time. Additionally, a bar chart was generated to display the average daily page views for each month, grouped by year, providing insight into seasonal trends. Finally, two adjacent box plots were drawn using Seaborn to show the distribution of page views, both year-wise (to highlight trends) and month-wise (to observe seasonality).
+
+
+###
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
