@@ -29,9 +29,11 @@ As I work towards becoming a full-fledged data scientist, I focus on mastering k
 ## Projects
 ### Master Thesis:  Optimizing Vendor Invoice Processes: A Document AI approach for efficient management
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+This project proposes a transformative approach to revolutionize traditional invoice management processes. Existing manual workflows are often error-prone and time-consuming, negatively impacting payment efficiency. By integrating Artificial Intelligence (AI) into the conventional Vendor Invoice Management (VIM) system utilized in SAP, we aim to significantly reduce the time required for invoice preparation, field extraction, and overall processing. This enhancement will lead to improved efficiency in payment processing.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+The project leverages the capabilities of Google Cloud Platform (GCP) to seamlessly integrate AI technologies, creating a streamlined and accelerated invoicing process. Utilizing Google Document AI, we implement a pretrained model with Generative AI capabilities, which minimizes the need for extensive training while maximizing accuracy in invoice recognition and data extraction. This advancement will improve both the accuracy and speed of payment procurement. The adoption of AI in invoice processing promises substantial time savings of about 20% for invoice processing and 93% of model accuracy for extracting data.
+
+![Optimizing Vendor Invoice Process](/assets/images/MT_SS.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
