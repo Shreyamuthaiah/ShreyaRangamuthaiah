@@ -42,7 +42,34 @@ This project introduces a smart wheelchair designed to improve the independence 
 
 The voice recognition system, powered by IFTTT, simplifies control, enabling users to operate the wheelchair with minimal physical effort. With real-time connectivity and automatic obstacle detection, this smart wheelchair not only increases mobility but also enhances safety and convenience, empowering users to lead more autonomous lives.
 
-![Bike Study](/assets/images/BT_BD.png)
+![Automatized Perambulator](/assets/images/BT_BD.png)
+
+
+### Slope Control of a mobile robot using Arduino NiclaVision
+
+Mobile robots have become an integral part of daily life, and improving their efficiency is critical to maximizing their utility. A key aspect of enhancing mobile robots involves obstacle detection and collision avoidance, enabling them to safely navigate their environments. This project focuses on classifying obstacles such as objects, slopes, and ditches to ensure smooth movement. Using Arduino Nicla Vision for real-time environment detection, the robot can respond dynamically to various terrain challenges.
+
+To further enhance the robot's capabilities, supervised linear regression was employed using TensorFlow to predict the slope of the mobile robot. This approach allows the robot to better understand and react to inclines and declines in its path, improving navigation. By integrating machine learning with robotics, this project demonstrates a valuable application of data-driven insights to optimize mobile robot performance.
+
+![Mobile robot slope detection](/assets/images/MR.png)
+![State of Art](/assets/images/SOA.png)
+
+
+### Smart Extruder – Industry 4.0 Component
+
+The project aims to establish a communication interface for a smart extruder that allows seamless data exchange and visualization on a user-friendly interface. In line with Industry 4.0 (I4.0) standards, the smart extruder integrates with flexible production systems using a standardized interface for real-time control via EtherCAT. Additionally, smart sensors provide enhanced functionality, while MQTT is implemented as a communication protocol to support M2M communication and IoT platforms, even in limited infrastructures.
+
+A Raspberry Pi microcontroller is used to control the stepper motor and handle data acquisition. The system publishes key data points like stepper drive speed, temperature, and fan speed through an MQTT broker. For data visualization, Grafana is utilized to display real-time data, allowing users to monitor performance and make informed decisions. This scalable and flexible communication system lays the groundwork for future production environments in line with I4.0 principles.
+
+![Smart Extruder](/assets/images/SE.png)
+
+### Optimization of Data Flow in the Production Environment
+
+This project focuses on optimizing data flow in a production environment by analyzing large volumes of machine-generated data. Data from machines, collected in CSV files, will be processed using Apache Spark, which is connected to a MySQL database for seamless integration with Microsoft Power BI for visualization. By leveraging these technologies, the system enables efficient data analysis and provides actionable insights to enhance decision-making.
+
+The solution aims to reduce the manual effort required for data processing and reporting while providing real-time visibility into machine performance. With optimized data flow, the project improves efficiency, supports management reporting, and delivers a scalable solution that can be integrated into existing production systems to promote overall operational growth and success.
+
+![Pipeline](/assets/images/PP.png)
 
 
 
