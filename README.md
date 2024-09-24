@@ -1,5 +1,9 @@
 # Aspiring Data Scientist
 
+I’m an experienced software engineer and aspiring data scientist with a strong background in cloud computing, machine learning, and data science. Through hands-on experience in deploying AI solutions, automating workflows, and optimizing cloud infrastructure, I’ve developed a passion for leveraging data to solve complex problems. With a history of implementing data-driven systems that enhance operational efficiency, I’m excited to contribute to projects that require both technical expertise and a problem-solving mindset. 
+
+As I work towards becoming a full-fledged data scientist, I focus on mastering key areas such as machine learning algorithms, data wrangling, data interpretation, and model deployment. I am enthusiastic about collaborating on projects that foster innovation, optimize processes, and unlock value from data. Driven by curiosity and a desire to learn, I am eager to contribute to the data science community and help organizations harness the power of data to make informed, strategic decisions.
+
 ## Education					       		
 - M.Eng., Industrial Informatics	| Hochschule Emden/Leer | Emden, Germany (_August 2024_)	 			        		
 - B.Eng., Electrical and Electronics | Sri Venkatashwara College of Engineering | Bengaluru, India (_August 2020_)
@@ -23,8 +27,7 @@
 - Established and managed a Single Source of Truth (SSoT) data repository for all source workloads, increasing data accuracy and collection efficiency by 25%, leading to more reliable analytics and decision-making.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Master Thesis:  Optimizing Vendor Invoice Processes: A Document AI approach for efficient management
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
