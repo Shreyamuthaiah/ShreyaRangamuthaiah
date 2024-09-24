@@ -1,20 +1,26 @@
-# Data Scientist
+# Aspiring Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education					       		
+- M.Eng., Industrial Informatics	| Hochschule Emden/Leer | Emden, Germany (_August 2024_)	 			        		
+- B.Eng., Electrical and Electronics | Sri Venkatashwara College of Engineering | Bengaluru, India (_August 2020_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Intern - Procure, Contract and Facility Management IT | Deutsche Boerse | Eschborn, Germany (_March 2024 - August 2024_)**
+- Implemented Google Document AI to process and extract data from approximately 60,000 invoices annually, significantly improving operational efficiency and streamlining business processes.
+- Utilized machine learning algorithms, natural language processing (NLP), and optical character recognition (OCR) to automate data extraction, classification, and validation, increasing data accuracy and processing efficiency.
+- Developed and deployed a Document AI system that increased invoice processing speed by 20%, enhanced workflow efficiency, and improved data accuracy to 93% by optimizing the automation process for high-volume invoice processing.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Intern - Enterprise Analytics IT | Deutsche Boerse | Eschborn, Germany (_September 2023 - February 2024_)**
+- Analyzed project data to design and implement a comprehensive data visualization dashboard using business intelligence (BI) tools, improving budget management, transparency, and enabling more informed decision-making within project timelines.
+- Managed administrative tasks and system performance in SAP Analytics Cloud, ensuring efficient data handling, reliability, and performance for business intelligence operations.
+- Developed and launched a website using GitHub Pages to create a centralized hub for team insights, enhancing communication, collaboration, and project coordination.
+
+**Associate Professional Software Engineer | DXC Technology | Bengaluru, India (_June 2020 - August 2022_)**
+- Successfully migrated 120 critical Linux servers to FMO via TMO, achieving a 15% reduction in downtime and significantly improving system reliability and performance.
+- Conducted VMware replication tasks using VSphere and Double Take, achieving a 98% success rate for V2V (Virtual-to-Virtual), P2P (Physical-to-Physical), and P2V (Physical-to-Virtual) migrations, ensuring minimal disruption during server transitions.
+- Proactively troubleshot and resolved critical issues during cutover windows, resulting in a 99% seamless server handover rate and maintaining operational continuity.
+- Deployed and configured Amazon EC2 and Azure VMs across various operating systems (Linux, CentOS, Ubuntu, RHEL), optimizing cloud infrastructure and enhancing system performance.
+- Established and managed a Single Source of Truth (SSoT) data repository for all source workloads, increasing data accuracy and collection efficiency by 25%, leading to more reliable analytics and decision-making.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
