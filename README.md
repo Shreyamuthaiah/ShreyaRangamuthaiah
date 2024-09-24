@@ -29,18 +29,22 @@ As I work towards becoming a full-fledged data scientist, I focus on mastering k
 ## Projects
 ### Master Thesis:  Optimizing Vendor Invoice Processes: A Document AI approach for efficient management
 
-This project proposes a transformative approach to revolutionize traditional invoice management processes. Existing manual workflows are often error-prone and time-consuming, negatively impacting payment efficiency. By integrating Artificial Intelligence (AI) into the conventional Vendor Invoice Management (VIM) system utilized in SAP, we aim to significantly reduce the time required for invoice preparation, field extraction, and overall processing. This enhancement will lead to improved efficiency in payment processing.
+This project proposes a transformative approach to revolutionize traditional invoice management processes. Existing manual workflows are often error-prone and time-consuming, negatively impacting payment efficiency. By integrating Artificial Intelligence (AI) into the conventional Vendor Invoice Management (VIM) system utilized in SAP, aimed to significantly reduce the time required for invoice preparation, field extraction, and overall processing. This enhancement will lead to improved efficiency in payment processing.
 
-The project leverages the capabilities of Google Cloud Platform (GCP) to seamlessly integrate AI technologies, creating a streamlined and accelerated invoicing process. Utilizing Google Document AI, we implement a pretrained model with Generative AI capabilities, which minimizes the need for extensive training while maximizing accuracy in invoice recognition and data extraction. This advancement will improve both the accuracy and speed of payment procurement. The adoption of AI in invoice processing promises substantial time savings of about 20% for invoice processing and 93% of model accuracy for extracting data.
+The project leverages the capabilities of Google Cloud Platform (GCP) to seamlessly integrate AI technologies, creating a streamlined and accelerated invoicing process. Utilizing Google Document AI, implemented a pretrained model with Generative AI capabilities, which minimizes the need for extensive training while maximizing accuracy in invoice recognition and data extraction. The adoption of AI in invoice processing promises substantial time savings of about 20% for invoice processing and 93% of model accuracy for extracting data.
 
 ![Optimizing Vendor Invoice Process](/assets/images/MT_SS.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Bachelor Thesis: Automatized Perambulator for Disabled Person
+[Publication](https://www.irjet.net/archives/V7/i5/IRJET-V7I5191.pdf)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+This project introduces a smart wheelchair designed to improve the independence of individuals with disabilities by integrating head and hand gesture recognition, voice commands, and GPS tracking. The wheelchair is equipped with ultrasonic sensors for automatic obstacle detection, a WiFi module, and an LDR for lighting control, all managed through the Blynk application. The integration of these technologies allows for seamless navigation and enhanced safety, making day-to-day activities more manageable for users.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+The voice recognition system, powered by IFTTT, simplifies control, enabling users to operate the wheelchair with minimal physical effort. With real-time connectivity and automatic obstacle detection, this smart wheelchair not only increases mobility but also enhances safety and convenience, empowering users to lead more autonomous lives.
+
+![Bike Study](/assets/images/BT_BD.png)
+
+
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
