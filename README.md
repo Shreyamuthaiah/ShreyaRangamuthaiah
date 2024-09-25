@@ -79,6 +79,8 @@ This project involved analyzing a dataset of global average sea level changes si
 
 To predict future sea level trends, the linregress function from Scipy.stats was applied to calculate the slope and y-intercept of the line of best fit, extending the projection through 2050. Additionally, a second line of best fit was plotted using data from the year 2000 onward to account for recent trends. This work demonstrates expertise in data visualization, regression analysis, and predictive modeling, highlighting the ability to extract valuable insights from complex datasets.
 
+![Sea level predictor](/assets/images/SLP.png)
+
 ### Page View Time Series Visualiser
 
 This project involved visualizing time series data to analyze the page views on the freeCodeCamp.org forum from May 2016 to December 2019. Pandas, Matplotlib, and Seaborn were utilized to create multiple visualizations, allowing for the identification of trends and patterns in yearly and monthly page view growth.
