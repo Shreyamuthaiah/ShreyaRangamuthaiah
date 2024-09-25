@@ -4,6 +4,7 @@ I’m an experienced software engineer and aspiring data scientist with a strong
 
 As I work towards becoming a full-fledged data scientist, I focus on mastering key areas such as machine learning algorithms, data wrangling, data interpretation, and model deployment. I am enthusiastic about collaborating on projects that foster innovation, optimize processes, and unlock value from data. Driven by curiosity and a desire to learn, I am eager to contribute to the data science community and help organizations harness the power of data to make informed, strategic decisions.
 
+
 ## Education					       		
 - M.Eng., Industrial Informatics	| Hochschule Emden/Leer | Emden, Germany (_August 2024_)	 			        		
 - B.Eng., Electrical and Electronics | Sri Venkatashwara College of Engineering | Bengaluru, India (_August 2020_)
@@ -85,17 +86,13 @@ This project involved visualizing time series data to analyze the page views on 
 The dataset was first cleaned by removing outliers, specifically filtering out days with page views in the top and bottom 2.5%. A line chart was then created using Matplotlib to visualize the daily page views over time. Additionally, a bar chart was generated to display the average daily page views for each month, grouped by year, providing insight into seasonal trends. Finally, two adjacent box plots were drawn using Seaborn to show the distribution of page views, both year-wise (to highlight trends) and month-wise (to observe seasonality).
 
 
-###
+### Medical data visualization
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+This project analyzed a medical dataset to explore the relationship between cardiovascular disease, body measurements, blood markers, and lifestyle choices. Key tasks included adding a BMI-based "overweight" column, normalizing cholesterol and glucose data, and cleaning the dataset by removing incorrect or extreme values.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+Visualizations were created using Seaborn to show counts of lifestyle and medical factors for patients with and without cardiovascular disease. Additionally, a correlation matrix was generated to identify relationships between variables like blood pressure, cholesterol, and cardiovascular risk. This project highlights expertise in data preprocessing, feature engineering, and visualization using Pandas, Matplotlib, and Seaborn.
+
+
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
